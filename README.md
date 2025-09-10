@@ -1,5 +1,10 @@
 # Holiday
 
+````
+This is a version of umulmrum/holiday/ with some additional features.  I have added St Brigids day and Easter Monday for Ireland.
+I will remove once my PR has been merged.
+````
+
 Holiday is a library that computes holidays in a very flexible way. It is possible to filter holiday lists by various
 criteria and format them in different ways. It is easy to add more holiday providers, filters and formatters, so even
 if this library does not perfectly fit your needs, you can simply extend it.
